@@ -1,5 +1,6 @@
 spaghetti
 salt
+pepper
 guanciale
 parmegiano regianno
 egg
